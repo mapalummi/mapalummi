@@ -28,6 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mapalummi/mapalummi/output/snake.svg" alt="Snake animation" />
+
 
 ###
