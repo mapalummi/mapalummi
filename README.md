@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">Hier schreibe ich noch etwas mehr über mich! Coming soon ....</p>
+<p align="left">Why do I code? Because coffee and JavaScript go so well together. I enjoy building web apps, trying out new ideas, and making things that (hopefully) don’t crash.</p>
 
 ###
 
-<p align="left">🪲 Building Projects and creating bugs since 2024<br>🧩 I'm currently learning JS, React and deep diving into Node.js<br>🎯 Goal: Full Stack Developer<br>🥁 Fun fact: I grow carnivorous plants. Don’t worry, they only bite the bugs… most of the time.</p>
+<p align="left">🪲 Building Projects and creating bugs since 2024<br>🧩 I'm currently learning JS, React and deep diving into Node.js<br>🎯 Goal: Full Stack Developer<br>🥁 Fun fact: I grow carnivorous plants. Don’t worry, they only bite the bugs… most of the time</p>
 
 ###
 
