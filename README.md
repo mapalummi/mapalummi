@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🪲 Building Projects and creating bugs since 2024<br>🧩 I'm currently learning JS, React and deep diving into Node.js<br>🎯 Goal: Full Stack Developer<br>🥁 Fun fact: I manage some bity plants</p>
+<p align="left">🪲 Building Projects and creating bugs since 2024<br>🧩 I'm currently learning JS, React and deep diving into Node.js<br>🎯 Goal: Full Stack Developer<br>🥁 Fun fact: I grow carnivorous plants. Don’t worry, they only bite the bugs… most of the time.</p>
 
 ###
 
